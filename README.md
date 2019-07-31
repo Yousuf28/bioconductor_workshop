@@ -9,16 +9,22 @@ https://hub.docker.com/r/bioconductor/devel_core2
 to use this:
 
 setup docker in your computer.
-oper your terminal/command line tool and type following
+
+oper your terminal/command line tool and type following  
+
 docker pull yousuf28/bioconductor_workshop
+
 wait to complete.
 type following to use.
+
 docker run -v "your_file/directory":"/home/rstudio" -e PASSWORD=123456 -p 8787:8787 yousuf28/bioconductor_workshop
+
 open your browser and type
+
 localhost:8787
 
-name: rstudio
+name: rstudio  
 pass: 123456
 
-it will open r studio
+it will open r studio  
 learn and enjoy
