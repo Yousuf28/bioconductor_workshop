@@ -15,7 +15,7 @@ oper your terminal/command line tool and type following
 docker pull yousuf28/bioconductor_workshop
 
 wait to complete.
-type following to use.
+type following in one line to use.
 
 docker run -v "your_file/directory":"/home/rstudio" -e PASSWORD=123456 -p 8787:8787 yousuf28/bioconductor_workshop  
 
