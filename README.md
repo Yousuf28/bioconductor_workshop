@@ -25,6 +25,10 @@ type following in one line to use.
 
 docker run -v "your_file/directory":"/home/rstudio" -e PASSWORD=123456 -p 8787:8787 yousuf28/bionconductor_116  
 
+trouble with windows directory:
+
+- (follow this link)[https://medium.com/@kale.miller96/how-to-mount-your-current-working-directory-to-your-docker-container-in-windows-74e47fa104d7]
+
 open your browser and type
 
 localhost:8787
