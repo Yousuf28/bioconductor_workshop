@@ -10,6 +10,12 @@ to use this:
 
 setup docker in your computer.
 
+- [setup_in_windows](https://www.youtube.com/watch?v=GIMExUnjzMw)
+
+- [setup_in_MAC](https://www.youtube.com/watch?v=O4Yro0VN5Ds)
+
+
+
 oper your terminal/command line tool and type following  
 
 docker pull yousuf28/bioconductor_workshop
