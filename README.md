@@ -1,6 +1,6 @@
 # bioconductor_workshop
 
-This bioconductor_workshop image contain more than 116 bionconductor packages. I created this to follow this workshop https://bioconductor.github.io/BiocWorkshops/ . This workshop is great for learning Bioinformatics with Bioconductor.
+This  image contain more than 116 bionconductor packages. I created this to follow this workshop https://bioconductor.github.io/BiocWorkshops/ . This workshop is great for learning Bioinformatics with Bioconductor.
 
 I have created the image from this link
 
@@ -16,14 +16,14 @@ setup docker in your computer.
 
 
 
-oper your terminal/command line tool and type following  
+oper your terminal/command prompt tool and type following  
 
-docker pull yousuf28/bioconductor_workshop
+docker pull yousuf28/bionconductor_116
 
 wait to complete.
 type following in one line to use.
 
-docker run -v "your_file/directory":"/home/rstudio" -e PASSWORD=123456 -p 8787:8787 yousuf28/bioconductor_workshop  
+docker run -v "your_file/directory":"/home/rstudio" -e PASSWORD=123456 -p 8787:8787 yousuf28/bionconductor_116  
 
 open your browser and type
 
