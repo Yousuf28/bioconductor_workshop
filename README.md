@@ -41,4 +41,4 @@ learn and enjoy
 
 ## link to dockerhub
 
-- [dockerhub](https://cloud.docker.com/u/yousuf28/repository/docker/yousuf28/bionconductor_116)
+- [dockerhub](https://hub.docker.com/r/yousuf28/bioconductor_116)
